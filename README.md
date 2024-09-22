@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Tess Coullon
-#### I am a Data Science and AI student
+### Hi there 👋, my name is Tess Coullon ☀️
+#### I am a Data Science and AI student 🖥️
 ![I am a Data Science and AI student](https://assets.monica.im/tools-web/_next/static/media/imageGeneratorFeatureIntro1.9f5e7e23.webp)
 
-I am an AI and Spatial Computing enthusiast. Half french - half Dutch, I obtained a Bachelor in Computer Science and Economics in Italy and I am currently pursuing a Master in DS and AI for Business at Ecole Polytechnique and HEC Paris.
+I am an **AI** and **Spatial Computing** enthusiast. Half french 🇫🇷 - half Dutch 🇳🇱, I obtained a **Bachelor in Computer Science 💻 and Economics** 📈 in Italy 🇮🇹 (Bocconi University) and I am currently pursuing a **Master in DS and AI for Business** at **Ecole Polytechnique** and **HEC Paris**.
 
-Skills: Python / AWS certified / ML & AI / Spatial data / Cloud Architecture
+***Skills:*** Python / AWS certified / ML & AI / Spatial data / Cloud Architecture
 
 - 🔭 I’m currently working on this page. 
 
