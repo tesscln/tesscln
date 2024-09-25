@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tesscln/tesscln/refs/heads/main/ACCU4692.jpg" alt="I am a Data Science and AI student" width="700"/>
+<img src="https://raw.githubusercontent.com/tesscln/tesscln/refs/heads/main/ACCU4692.jpg" alt="I am a Data Science and AI student" width="600"/>
 
 ### Hi there 👋, my name is Tess Coullon ☀️
 
@@ -13,7 +13,7 @@ I am an **AI** and **Spatial Computing** enthusiast. Half french 🇫🇷 - half
 - 🌱 I’m currently learning 3D data and Spatial Computing 
 - 💬 Ask me about AI, ML, Data Science, Stats 
 - 📫 How to reach me: LinkedIn
-- 
+  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tesscln&show_icons=true&count_private=true)  
 
