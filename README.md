@@ -17,17 +17,12 @@ I am an **AI** and **Spatial Computing** enthusiast. Half french 🇫🇷 - half
 
 
 
-- 🔭 I’m currently working on a personal notebook for uni rankings. 
 - 🌱 I’m currently learning about 3D data and Spatial Computing.
 - 💬 Ask me about AI, ML, Data Science, Stats.
 - 📫 How to reach me: LinkedIn.
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tesscln&show_icons=true&count_private=true)  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tesscln)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tesscln)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tesscoullon/)  
