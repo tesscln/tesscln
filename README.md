@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Tess Coullon ☀️
 #### I am a Data Science and AI student 🖥️
 
-<img src="https://raw.githubusercontent.com/tesscln/tesscln/refs/heads/main/ACCU4692.jpg" alt="I am a Data Science and AI student" width="800"/>
+<img src="https://raw.githubusercontent.com/tesscln/tesscln/refs/heads/main/ACCU4692.jpg" alt="I am a Data Science and AI student" width="700"/>
 
 I am an **AI** and **Spatial Computing** enthusiast. Half french 🇫🇷 - half Dutch 🇳🇱, I obtained a **Bachelor in Computer Science 💻 and Economics** 📈 in Italy 🇮🇹 (Bocconi University) and I am currently pursuing a **Master in DS and AI for Business** at **Ecole Polytechnique** and **HEC Paris**.
 
