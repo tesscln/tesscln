@@ -18,9 +18,9 @@ I am an **AI** and **Spatial Computing** enthusiast. Half french 🇫🇷 - half
 
 
 - 🔭 I’m currently working on a personal notebook for uni rankings. 
-- 🌱 I’m currently learning 3D data and Spatial Computing 
-- 💬 Ask me about AI, ML, Data Science, Stats 
-- 📫 How to reach me: LinkedIn
+- 🌱 I’m currently learning about 3D data and Spatial Computing.
+- 💬 Ask me about AI, ML, Data Science, Stats.
+- 📫 How to reach me: LinkedIn.
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tesscln&show_icons=true&count_private=true)  
