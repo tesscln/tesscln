@@ -10,14 +10,13 @@
 
 ### Hi there 👋, my name is Tess Coullon ☀️
 
-I am an **AI** and **Spatial Computing** enthusiast. Half french 🇫🇷 - half Dutch 🇳🇱, I obtained a **Bachelor in Computer Science 💻 and Economics** 📈 in Italy 🇮🇹 (Bocconi University) and a **Master in DS and AI for Business** at **Ecole Polytechnique** and **HEC Paris**. Currently, I am working at **AWS** as a **Solutions Architect**, part of the Worldwide Specialist organization.
+I am a **Physical AI** and **Spatial Computing** enthusiast. Half french 🇫🇷 - half Dutch 🇳🇱, I obtained a **Bachelor in Computer Science 💻 and Economics** 📈 in Italy 🇮🇹 (Bocconi University) and a **Master in DS and AI for Business** at **Ecole Polytechnique** and **HEC Paris**. Currently, I am working at **AWS** as a **Prototyping Engineer**, part of the Worldwide Specialists and Partners organization.
 
 
-**Skills:** Python / AWS certified / ML & AI / Spatial data / Cloud Architecture
+**Skills:** AWS certified / ML & AI / Spatial data / Cloud Architecture
 
 
-
-- 🌱 I’m currently learning about 3D data and Spatial Computing.
+- 🌱 I’m currently learning about 3D data and Physical AI, robotics.
 - 💬 Ask me about AI, ML, Data Science, Stats.
 - 📫 How to reach me: LinkedIn.
   
